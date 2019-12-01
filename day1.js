@@ -114,3 +114,5 @@ for (const num of arr) {
     fuel = calcFuel(fuel)
   }
 }
+
+console.log(sum)
